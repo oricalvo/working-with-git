@@ -1,5 +1,5 @@
 class App {
 	constructor() {
-		console.log("2");
+		console.log("3");
 	}
 }
